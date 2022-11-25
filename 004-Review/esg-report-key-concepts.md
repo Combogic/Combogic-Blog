@@ -2,6 +2,8 @@
 # 2023年必懂的ESG報告關鍵概念：GRI、SASB、TCFD、Materiality
 
 ![](../005-Files/plant-growing-coins-glass-jar-money-green-grass%201.jpeg)
+([來源](https://www.freepik.com/free-photo/plant-growing-coins-glass-jar-money-green-grass_7785438.htm?query=grass&collectionId=610&&position=25&from_view=collections))
+
 
 隨著國際淨零（Net-Zero）意識抬頭，各大企業紛紛發布「永續報告」、「ESG報告」等文件，一方面提升企業體透明度，一方面也彰顯企業對永續轉型的決心。金管會也於今年發布「上市櫃公司永續發展路徑圖」，第一階段將針對資本額逾100億上市櫃或鋼鐵水泥業，於2023年開始盤查。企業撰寫「ESG報告」的壓力越來越大，這份「ESG報告」有什麼特別之處？對企業真的那麼重要嗎？寫作ESG報告過程會遇到哪些困難？
 
@@ -15,10 +17,10 @@ ESG的主要書寫對象以投資人與利害關係人（消費者、員工、�
 
 ESG報告對企業有幾個好處：
 
-#### ESG報告可以增加企業透明度
+#### 1. ESG報告可以增加企業透明度
 ESG報告不是無端增加企業負擔的外界要求，而是企業藉此增加自身透明度，展現當責實踐決心的媒介。
 
-#### ESG報告可以吸引資金挹注
+#### 2. ESG報告可以吸引資金挹注
 隨著國際永續意識興起，投資人與股東也越來越重視ESG報告所提供的透明度，藉此評估企業對氣候風險的暴露程度，也用ESG報告作為未來財務預測的其中一項依據。
 
 以聯合國協助成立的責任投資原則組織（PRI）為例，在2006年剛成立時共有63個簽署方，資產管理規模（AUM）為6.5兆美元；在2021年已有3826位簽署方，資產規模達121.3兆美元。
@@ -27,12 +29,12 @@ ESG報告不是無端增加企業負擔的外界要求，而是企業藉此增�
 
 可以肯定的是，具備ESG報告的公司雖然不見得會因此加分，但不具備ESG報告的企業很有機會因此形成競爭劣勢。
 
-#### ESG報告符合利害關係人的需求
+#### 3. ESG報告符合利害關係人的需求
 對企業透明度有所求的不只是投資人，也是與企業相關連的廣泛利害關係人們，例如員工、合作夥伴、消費者、廠區附近市民...等。以消費者為例，在一份由美國分析公司First Insight提供的[報告](https://www.firstinsight.com/white-papers-posts/gen-z-shoppers-demand-sustainability)指出，62%的Z世代（90末到2010前期出生的人，華人社會稱為「00後」）消費者更偏好購買具備永續印象的品牌，其中73%願意花費多10%的費用支持這些品牌。
 
 不只是消費者市場，求職市場也是如此，同一份報告指出76%的千禧年世代求職者更偏好具有永續經營策略的公司投遞履歷。因此，具備一份ESG報告有機會讓公司更有機會找到適合的人才。
 
-#### ESG報告可以應對政府法規規範
+#### 4. ESG報告可以應對政府法規規範
 
 提供ESG報告在國際間早已行之有年，92%的S&P500企業每年發布最新版ESG報告，藉此回應政府對企業的規範。
 
@@ -86,8 +88,3 @@ ESG報告的內容除了揭露企業目前碳盤查結果以外，關於說明�
 國外許多[案例](https://new.abb.com/industrial-software/digital/energy-managment/practical-ways-to-apply-data-analytics-and-ai-for-energy-management-and-emission-control-in-the-steel-and-cement-industries)顯示，減碳策略制定問題，實質上是資料科學的應用場域。櫛構科技團隊背景由大數據AI演算建模以及資料科學組成，專精於運用演算法與深度學習制定減碳策略。我們相信，深入洞察數據資料，才可以真正抓出企業活動與碳排的因果關聯。有了數據支撐，制定的減碳計畫才是可預期，有意義，真正做到永續轉型的計畫。
 
 除了隨手關燈，我們可以做更多。
-
-
-Photo credit: <a href="https://www.freepik.com/free-photo/plant-growing-coins-glass-jar-money-green-grass_7785438.htm?query=grass&collectionId=610&&position=25&from_view=collections">Image by master1305</a> on Freepik
-
-
