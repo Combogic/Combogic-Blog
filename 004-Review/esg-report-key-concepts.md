@@ -1,15 +1,15 @@
 
 # 2023年必懂的ESG報告關鍵概念：GRI、SASB、TCFD、Materiality
 
-隨著國際淨零（Net-Zero）意識抬頭，各大企業紛紛發布「永續報告」、「ESG報告」等文件，一方面提升企業體透明度，一方面也彰顯企業對永續轉型的決心。金管會也於今年發布「上市櫃公司永續發展路徑圖」，第一階段將針對資本額逾100億上市櫃或鋼鐵水泥業，於2023年開始盤查。企業撰寫「ESG報告」的壓力越來越大，這份「ESG報告」有什麼特別之處？對企業真的那麼重要嗎？寫作ESG報告過程會遇到哪些困難？
+![](../005-Files/plant-growing-coins-glass-jar-money-green-grass%201.jpeg)
 
+隨著國際淨零（Net-Zero）意識抬頭，各大企業紛紛發布「永續報告」、「ESG報告」等文件，一方面提升企業體透明度，一方面也彰顯企業對永續轉型的決心。金管會也於今年發布「上市櫃公司永續發展路徑圖」，第一階段將針對資本額逾100億上市櫃或鋼鐵水泥業，於2023年開始盤查。企業撰寫「ESG報告」的壓力越來越大，這份「ESG報告」有什麼特別之處？對企業真的那麼重要嗎？寫作ESG報告過程會遇到哪些困難？
 
 ### 什麼是ESG報告？
 
 ESG報告就是企業用來說明自身企業對於環境與社會責任實踐的報告。這份文件用途有二：一來是自我揭露企業現況與永續相關資訊，二來是述說企業執行永續轉型的決心，說明企業設定了哪些SGDs目標（碳中和、有效治理、多元包容...等），以及怎樣做到這些目標。
 
 ESG的主要書寫對象以投資人與利害關係人（消費者、員工、合作夥伴...等）為主。ESG報告也時常作為管制單位判斷企業運營狀況的資料來源，而求職者也會以ESG報告作為是否選擇到這間公司上班的依據。
-
 
 ### ESG報告為什麼重要？
 
@@ -37,9 +37,6 @@ ESG報告不是無端增加企業負擔的外界要求，而是企業藉此增�
 提供ESG報告在國際間早已行之有年，92%的S&P500企業每年發布最新版ESG報告，藉此回應政府對企業的規範。
 
 而在台灣，金管會已於今年發布「上市櫃公司永續發展路徑圖」，第一階段將針對資本額逾100億上市櫃或鋼鐵水泥業於2023年盤查、2024年確信。而中小企業也躲不了，因為在範疇三（類別三～六）盤查過程，大公司也會要求合作夥伴提供碳足跡資訊。提供永續報告的趨勢是所有企業，不論大小都需要面對的課題。
-
-https://www.youtube.com/watch?v=PVWzAb9WrTM&ab_channel=EducationforSustainability%5BED4S%5D
-https://www.youtube.com/watch?v=p1j9RqirbcI&ab_channel=ERAEnvironmental
 
 ### ESG報告常見框架
 
@@ -91,7 +88,6 @@ ESG報告的內容除了揭露企業目前碳盤查結果以外，關於說明�
 除了隨手關燈，我們可以做更多。
 
 
-[[../001 Fleeting Note/TCFD操作案例]]
-
+Photo credit: <a href="https://www.freepik.com/free-photo/plant-growing-coins-glass-jar-money-green-grass_7785438.htm?query=grass&collectionId=610&&position=25&from_view=collections">Image by master1305</a> on Freepik
 
 
