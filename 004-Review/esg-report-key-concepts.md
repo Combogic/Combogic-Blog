@@ -54,7 +54,7 @@ ESG報告撰寫框架並沒有單一個全球統一的標準，要選擇哪一�
 GRI（Global Report Intiative）：GRI的主要撰寫對象為多方面的利害關係人（muiltiport stakeholders），是最綜合性質，不具有特別目的性的報告書標準，因此也為最多企業採用。在2022年，台灣約有98%的企業皆採用此框架撰寫永續報告書，另外有36%企業導入TCFD框架進一步鑑識與揭露氣候相關風險議題。詳情可參考[GRI通用準則](https://www.globalreporting.org/how-to-use-the-gri-standards/gri-standards-traditional-chinese-translations/)
 
 SASB（Sustainability Accounting Standards Board）主要關注的是財務相關資訊，該標準目的為幫助企業分析重要ESG議題將如何影響財務表現，報告書撰寫對象以投資人為主。SASB框架廣泛受到S&P Global 1200指數中共1300家公司使用。SASB框架的要求內容介於永續報告與財務報告之間，因此也有許多公司在報告中使用GRI、SASB並行。
-![](../Pasted%20image%2020221125144543.png)（[來源](https://www.sasb.org/about/sasb-and-other-esg-frameworks/)）
+![](../005-Files/Pasted%20image%2020221125144543.png)（[來源](https://www.sasb.org/about/sasb-and-other-esg-frameworks/)）
 
 第三是TCFD（The Task Force on Climate-related Financial Disclosures）由前紐約市市長主導，主要目的是為了幫助投資市場理解企業的ESG表現，幫助評估市值以及風險。在2020年開始，任何要加入聯合國責任投資原則組織的公司都強制需要以TCFD揭露本身ESG相關資訊。相較於SASB，TCFD更偏重於氣候風險揭露，撰寫對象以投資人、股票市場大眾為主。
 
@@ -91,7 +91,7 @@ ESG報告的內容除了揭露企業目前碳盤查結果以外，關於說明�
 除了隨手關燈，我們可以做更多。
 
 
-[[TCFD操作案例]]
+[[../001 Fleeting Note/TCFD操作案例]]
 
 
 
