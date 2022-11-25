@@ -1,7 +1,7 @@
 
 Created: 2022-10-15 16:04
 
-# 如何取得ESG？六大步驟啟動永續轉型
+# 如何取得ESG認證？六大步驟啟動永續轉型
 
 
 ![](../005-Files/6-steps-to-esg.jpeg)
@@ -20,8 +20,6 @@ Created: 2022-10-15 16:04
 企業可以如何取得ESG？取得ESG前有哪些應該做的準備？這篇文章提供六點參考，協助您思考永續轉型。
 
 ### 一、取得內部共識
-
-
 
 這點聽起來有點廢話，但事實上是，公司內部成員對所謂「永續轉型」可能認知不見得同步，在一開始就確認參與方共識，也可以對轉型過程有所幫助。
 
@@ -100,17 +98,13 @@ ESG評分是公開資訊，可以在特定管道中取得，例如：
 2. [公司投資人關係整合平台](https://irplatform.tdcc.com.tw/ir/zh) 登入後即可搜尋所有上市櫃公司的ESG資訊。
 
 
-### 四、依照永續報告揭露框架讓資訊透明化
+### 四、依照永續報告框架揭露資訊
 
 如何撰寫這些報告？當然不是想到什麼寫什麼。 ESG 報告撰寫必須符合某種「框架」與「標準」這一大堆標準就顯得很混亂了
 
-最常見的是GRI（Global Report Intiative），GRI的主要撰寫對象為多方面的利害關係人（muiltiport stakeholders），是最綜合性質，不具有特別目的性的報告書標準，因此也為最多企業採用。在2022年，台灣約有98%的企業皆採用此框架撰寫永續報告書，另外有36%企業導入TCFD框架進一步鑑識與揭露氣候相關風險議題。詳情可參考[GRI通用準則](https://www.globalreporting.org/how-to-use-the-gri-standards/gri-standards-traditional-chinese-translations/)
+關於永續報告框架，最常見的有兩種：GRI與SASB，兩者沒有優劣之分，只有使用場景區別。
 
-第二是SASB（Sustainability Accounting Standards Board）主要關注的是財務相關資訊，該標準目的為幫助企業分析重要ESG議題將如何影響財務表現，報告書撰寫對象以投資人為主。SASB框架廣泛受到S&P Global 1200指數中共1300家公司使用。
-
-第三是TCFD（The Task Force on Climate-related Financial Disclosures）由前紐約市市長主導，主要目的是為了幫助投資市場理解企業的ESG表現，幫助評估市值以及風險。在2020年開始，任何要加入聯合國責任投資原則組織的公司都強制需要以TCFD揭露本身ESG相關資訊。
-
-而就在2021年也由IFRS（the International Financial Reporting Standards）基金會推出新款報告書標準：ISSB（the International Sustainability Standards Board），該標準參考SASB、TCFD框架結構，也是以投資人為撰寫對象。ISSB的誕生可以看出IFRS試圖解決國際間揭露標準繁複的混亂情況，朝向統一標準發展。
+簡單來說，大多數企業採用的GRI框架，就是總體性的揭露指標，撰寫對象以廣泛利害關係人為主；而SASB框架則注重在財務資訊揭露以及氣候風險評估，撰寫對象以投資人為主。
 
 
 ### 五、分析競爭者
@@ -126,4 +120,5 @@ ESG評分是公開資訊，可以在特定管道中取得，例如：
 
 ESG報告書的撰寫是一個持續不斷的過程，投資人與利害關係人會期待公司至少一年更新一次揭露報告。而如果ESG是公司的強項，也可以考慮將其整合在公司故事裡面。
 
-https://www.esgthereport.com/what-are-esg-certifications/
+撰寫ESG報告時，通常企業最頭痛的部分就是收集內部資訊的環節。而比這更頭痛的，則是收集完資訊之後，對著茫茫的數據大海不知道怎樣下手訂定「減碳策略」、「ESG轉型策略」。櫛構科技致力於解決這點：從資料科學出發，我們借助現代數據分析來制定有效、精準且結果可預期的減碳策略。
+
