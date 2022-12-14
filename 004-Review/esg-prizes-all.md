@@ -1,6 +1,6 @@
 # 國內永續相關各大獎項整理
 
-![](../ecological-toothbrushes-grass.jpeg)
+![](../005-Files/ecological-toothbrushes-grass.jpeg)
 
 申請ESG標章可以是一件很麻煩的事情，參加評選也需要練習。《2030永續企業革命》指出，許多企業在申請ESG評比分數時，往往要第二、三次比較容易成功。
 
