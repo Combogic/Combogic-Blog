@@ -61,11 +61,8 @@ Boyce教授表示，在台灣推動碳定價機制的當頭上，如果只設計
 
 相關資源：
 
-
 更深入理解碳紅利（Carbon Dividend）可以看[這部影片](https://www.youtube.com/watch?v=TKn69ho9kFc)：
 
 [James K. Boyce 官網](https://www.jameskboyce.com/about)
-
-[蕭代基「綠色經濟」課程](https://www.dropbox.com/s/t931x52lf07ao25/%E7%B6%A0%E8%89%B2%E7%B6%93%E6%BF%9F%28%E8%95%AD%E4%BB%A3%E5%9F%BA%E8%80%81%E5%B8%AB%29.pdf?dl=0)
 
 [淨零賽局來臨：國際碳邊境稅臺灣衝擊報告（綠色和平）](https://www.greenpeace.org/static/planet4-taiwan-stateless/2021/08/9268d16a-%E6%B7%A8%E9%9B%B6%E8%B3%BD%E5%B1%80%E4%BE%86%E8%87%A8%EF%BC%9A%E5%9C%8B%E9%9A%9B%E7%A2%B3%E9%82%8A%E5%A2%83%E7%A8%85%E8%87%BA%E7%81%A3%E8%A1%9D%E6%93%8A%E5%A0%B1%E5%91%8A-compressed.pdf)
