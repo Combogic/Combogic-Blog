@@ -1,22 +1,28 @@
-# 2050 全球淨零真的可能嗎？
+# 2050 全球淨零，真的可能嗎？
 
 ![](../005-Files/00049-2435915135-RAW%20photo,%20winding%20road%20toward%20a%20star,%20night,%20%20dim%20lighting,%208k%20uhd,%20dslr,%20dark,%20high%20quality,%20film%20grain,%20Fujifilm%20XT3.webp)
 
 ## 2050淨零（Net-Zero）是什麼？ 
 
-2050 淨零、碳中和、氣候淨零...這些詞彙近來已成為熱門的文案詞彙，似乎在公司的報告裡不提一下淨零、不帶一點碳中和，願景就不夠美好與符合道德。
+2050 淨零、碳中和、氣候淨零...這些詞彙近來已成為熱門的文案詞彙，似乎在公司介紹裡不提一下淨零、不帶一點碳中和，願景就不夠美好與符合道德。
 
-但即使身為被炒作的公關流行語，氣候科學家仍然認為，淨零目標是保護人類社群不被氣候災難侵害的最後一道防線。
+但是，淨零的願景究竟是實際的氣候行動？還是一場集體文案炒作？
 
 政府間氣候變化專門委員會 IPCC 科學家一致認同，相較於工業革命前，全球均溫已經上升超個1.2度。如果一切維持現況，本世紀即將升溫超過攝氏3度，導致極端天氣嚴重惡化，以及災難性的海平面上升，持續造成飢荒與移民。
 
 淨零（Net-zero）本質上的意思是，通過人工技術或自然手段，從大氣中移除所有人類產生的溫室氣體，達到排放量等於移除量的目標。
 
-最常見的方式？種樹。種樹因為非常容易執行，過去已經成為許多企業宣稱走向永續的手段。但事實上一項合格的種樹移除溫室氣體的碳抵銷計畫必須經過多重的手續驗證，才能夠被稱為「移除」溫室氣體。單純藉由種樹，並不一定是有效的移除溫室氣體手段。
+最常見的方式？種樹。
 
-而除了種樹以外，其餘的固碳技術（CCUS, DAC等）仍然處於原型階段，成本極度高昂，尚未能夠大規模部署。因此科學家認為，任何形式的「碳移除」，都不能替代「碳排放減量」。
+種樹因為非常容易執行，過去已經成為許多企業宣稱走向永續的手段。但事實上一項合格的種樹移除溫室氣體的碳抵銷計畫必須經過多重的手續驗證，才能夠被稱為「移除」溫室氣體。單純藉由種樹，並不一定是有效的移除溫室氣體手段。
 
-因此淨零真正的本質，是先減量，再移除。過去有許多企業並不理解這點，而急忙於購買碳抵銷來宣稱碳中和，反而背上了「漂綠」的標籤。
+而除了種樹以外，其餘的固碳技術（CCUS, DAC等）仍然處於原型階段，成本極度高昂，尚未能夠大規模部署。
+
+因此氣候科學家仍然認為，任何形式的「碳移除」，都不能替代「碳排放減量」。
+
+淨零目標是保護人類社群不被氣候災難侵害的最後一道防線，但要達成這一項目標，前提是我們已經做到「減量」。先減量，再移除。
+
+過去有許多企業並不理解這點，而急忙於購買來路不明的膨風碳抵銷來宣稱碳中和，反而背上了「漂綠」的標籤。
 
 ## 國際間對淨零目標的態度如何？
 
@@ -35,7 +41,7 @@
 
 [格拉斯哥氣候公約](https://unfccc.int/sites/default/files/resource/cma3_auv_2_cover%2520decision.pdf) 呼籲所有國家到 2022 年底重新審視並加強其國家自主貢獻中的 2030 年目標，但 到 2022 年 9 月，僅提交了 24 份新的或更新的氣候計劃。
 
-![Photocomposition: two chimneys, the number +10 in the middle, with the writing below Increase in global greenhouse gas emissions projected  by 2030, compared to 2010, based on available national action plans Source: UNFCCC NDC synthesis report  Oct 22](https://www.un.org/sites/un2.un.org/files/square_netzerographic-update2.jpg)
+![](../005-Files/3.webp)
 
 這是否代表，我們注定承受氣候災害與全球暖化的危害？
 
@@ -117,6 +123,21 @@ IEA報告評估，目前市場上可取得的新技術，不論是新型製程�
 ![](../005-Files/Pasted%20image%2020230130151243.png)
 [圖片來源](https://www.iea.org/data-and-statistics/charts/global-energy-sector-co2-emissions-reductions-by-current-technology-readiness-category-in-the-sustainable-development-scenario-relative-to-the-stated-policies-scenario-2019-2070)
 
+## 以經濟手段達成全球規模減碳：碳定價
+
+使用經濟手段來達成減碳目標，主要的精神就是實施「碳定價」（「把碳定個價」），讓溫室氣體產生的無形外部成本有價化。而碳定價作法，除了直觀的碳費、碳稅以外，最令人矚目的就是新興的「碳交易」市場。
+
+「碳交易」市場的原理來自總量管制，通常是由政府監管機關實行，每年給予所有重排放企業一定的「配額」，並且逐年減少配額量，並且針對超額排放的企業訂定罰則，藉此達到減碳的目標。
+
+成功減量的企業除了可以避免罰金以外，也可以將沒有用完的「扣打」販售給其他無法成功減量的企業，因此形成了「碳交易」市場。
+
+注意，這邊說的是由上而下的強制性碳交易市場（regulatory carbon market），和由下而上的碳信用、自願性碳交易市場（voluntary carbon market）有所區別。
+
+以歐盟為例，為了達成2030減量40%目標，EU ETS 碳交易市場遊戲規則是每年配額減少 2.2% ，且將在2030年之後再調高減少幅度，超排罰金每噸100歐元。
+
+為了避免付出罰金，無法減碳的公司會選擇向其他購買「碳權」，截至2023 年 2 月，歐盟碳價格約在 90 歐元每噸。
+
+歐盟在碳交易市場趨勢裡起了先鋒示範的作用，其他國家也開始仿效，例如美國加州的總量管制機制（Cap and Trade），也訂定了類似的遊戲規則：配額減幅從2013每年減少2%，到近期開始的4%，且盤查不實會受到罰鍰，未達減碳標準則必須購買四倍的超排碳權配額。
 
 
 ## 台灣的參與感如何？
@@ -170,8 +191,8 @@ IEA報告評估，目前市場上可取得的新技術，不論是新型製程�
 
 [Are net zero emissions by 2050 possible? Yes, says IEA](https://www.weforum.org/agenda/2021/05/net-zero-emissions-2050-iea/)
 
-[Net Zero by 2050: A Roadmap for the Global Energy Sector
-](https://iea.blob.core.windows.net/assets/deebef5d-0c34-4539-9d0c-10b13d840027/NetZeroby2050-ARoadmapfortheGlobalEnergySector_CORR.pdf)
+[Net Zero by 2050: A Roadmap for the Global Energy Sector](https://iea.blob.core.windows.net/assets/deebef5d-0c34-4539-9d0c-10b13d840027/NetZeroby2050-ARoadmapfortheGlobalEnergySector_CORR.pdf)
+
 [氣候變遷因應法三讀通過！2050淨零排放、碳費徵收重點一次看](https://esg.gvm.com.tw/article/21200)
 
 [Achieving net-zero emissions by 2050 will rest on these 3 pillars](https://www.weforum.org/agenda/2020/01/whether-we-achieve-zero-emissions-rests-on-these-3-pillars)
