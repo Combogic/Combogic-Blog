@@ -1,5 +1,8 @@
 # 從賽局理論看全球淨零困境
 
+![](../005-Files/gold-chess-chess-board-game-business-metaphor-leadership-concept.jpeg)
+https://www.freepik.com/free-photo/gold-chess-chess-board-game-business-metaphor-leadership-concept_6170445.htm#query=chess&position=16&from_view=search&track=sph
+
 ## 前言
 
 2050 淨零碳排（Net-Zero）的目標在國際間引起了巨大的迴響，然而，所以人心中都有的問題是「 27年後要做到全球零碳排放，真的可能嗎？」。
@@ -10,7 +13,7 @@
 
 這是人類史上前所未見的問題，代價卻是整個種族的生存問題。
 
-究竟我們能否達成 2050 淨零？ IEA 國際能源署說「有可能」。但是「可能」不見得「可行」，也許從賽局的角度來思考「淨零與否」這個問題，可以給我們一些啟發。
+[究竟我們能否達成 2050 淨零？ ](https://combogic.com/blog/2050-net-zero-roadmap.html)IEA 國際能源署說「有可能」。但是「可能」不見得「可行」，也許從賽局的角度來思考「淨零與否」這個問題，可以給我們一些啟發。
 
 ## 多人囚徒困境
 
@@ -80,7 +83,7 @@ Battalio 教授後來又開放了一個選項，學生們可以針對社會欺�
 
 要有效執行懲罰的前提，是必須能讓社會欺騙者的行為透明可見。原則上，最好的方法是自動偵查機制，例如「買貴退差價」的銷售策略，即是讓精明消費者去偵查其他削價競爭的店家並且自動降價競爭，藉此懲罰削價的競業。
 
-科技在這點扮演極為重要的角色。目前[衛星影像偵查地區碳排放的技術](https://www.sciencealert.com/nasa-satellite-shows-how-we-can-track-local-co2-emissions-from-space)已經出現，且已有一些碳抵銷評估公司採用[無人機搭載雷達分析儀](https://www.sylvera.com/blog/mapping-forest-structure-across-the-landscape)，用以評估森林實際固碳量。
+在這點上，科技就扮演極為重要的角色。目前[衛星影像偵查地區碳排放的技術](https://www.sciencealert.com/nasa-satellite-shows-how-we-can-track-local-co2-emissions-from-space)已經出現，且已有一些碳抵銷評估公司採用[無人機搭載雷達分析儀](https://www.sylvera.com/blog/mapping-forest-structure-across-the-landscape)，用以評估森林實際固碳量。
 
 ### 5. 「由下而上」的分散式管理
 
@@ -90,7 +93,7 @@ Elinor Ostrom 的研究顯示，集中式的、由上而下的管理模式效率
 
 但我們也必須接受這樣的現實：囚徒困境永遠不會消失，公共財悲劇不能完全被克服，即便在最佳情境裡。監督和制裁再嚴格，也一定會有偷跑仔。我們只能盡量設計一個有效的管理機制。這也是目前在台灣最需要的共信機制。
 
-當然實際上，要達成永續社會的目標，不只是需要建立完善監管機制，同時也挑戰人類科技創新與部屬的能力。我們需要所有可以獲得的方案，才有機會完成這項艱鉅任務。
+當然實際上，要達成永續社會的目標，是多重努力同時匯集而成的，政府需要建立完善監管機制，嘗試建立新的經濟模型例如碳權交易、甚至[碳紅利政策](https://combogic.com/blog/carbon-dividend.html)等；企業也需要檢視自身碳排並且減量，精實[撰寫永續報告書](https://combogic.com/blog/esg-report-key-concepts.html)的能力，同時也精進人類科技創新與部屬的能力。我們需要所有可以獲得的方案，才有機會完成這項艱鉅任務。
 
 櫛構科技致力於使用資料科學建造永續企業，協助企業以「數據治理」達成「數據永續」的目標。藉由 AI 演算法結合 GIS 地理圖層資訊系統，我們得以分析企業車隊駕駛行為，提供數據驅動的減碳策略。
 
