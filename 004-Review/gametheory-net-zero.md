@@ -11,7 +11,7 @@ https://www.freepik.com/free-photo/gold-chess-chess-board-game-business-metaphor
 
 這是一場弔詭的挑戰：人類史上所有科技的演進都在追求「方便」，但淨零挑戰卻是要我們「不方便」。自從人類懂得使用工具以來，我們思考的問題從來都是「我們怎樣更快更大更多？」，但今天的問題卻是「我怎樣更『乾淨』」？
 
-這是人類史上前所未見的問題，代價卻是整個種族的生存問題。
+這是人類史上前所未見的問題，代價卻是整個種族的生存與否。
 
 [究竟我們能否達成 2050 淨零？ ](https://combogic.com/blog/2050-net-zero-roadmap.html)IEA 國際能源署說「有可能」。但是「可能」不見得「可行」，也許從賽局的角度來思考「淨零與否」這個問題，可以給我們一些啟發。
 
@@ -45,6 +45,8 @@ https://www.freepik.com/free-photo/gold-chess-chess-board-game-business-metaphor
 
 ## 社會懲罰是一種生物性行為
 
+https://www.freepik.com/free-photo/mountain-gorillas-gorilla-beringei-beringei_15252759.htm#query=chimpanzee&position=6&from_view=search&track=sph
+
 然而，這個實驗可以給我們一些啟發。
 
 Battalio 教授後來又開放了一個選項，學生們可以針對社會欺騙者（選 2 的人）進行懲罰，讓他們把多拿的錢吐出來，但是代價是，選擇進行懲罰的人自己也必須付出部分收益。
@@ -60,6 +62,8 @@ Battalio 教授後來又開放了一個選項，學生們可以針對社會欺�
 這個發現，給了我們思考淨零賽局一些很有意思的啟發。
 
 ## 如何避免公共財悲劇
+
+https://www.freepik.com/free-photo/silhouettes-trees-people-wood_969886.htm#query=community&position=27&from_view=search&track=sph
 
 印第安納大學政治科學教授 Elinor Ostrom （governing the commons, coping with tragedies of commons）研究總結出，公共財悲劇是多人囚徒困境的結果，但我們並不是完全束手無策，有許多設定遊戲規則的原則，可以避免這個悲劇。
 
