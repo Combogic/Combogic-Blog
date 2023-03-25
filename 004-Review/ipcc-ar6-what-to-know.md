@@ -1,19 +1,19 @@
-#  # IPCC AR6 報告：全球氣候危機將衝擊台灣
+#  # IPCC AR6 完結報告：全球氣候危機將衝擊台灣
 ![](../005-Files/0.jpeg)
 [Climate change widespread, rapid, and intensifying – IPCC — IPCC](https://www.ipcc.ch/2021/08/09/ar6-wg1-20210809-pr/)
 
 
 2023年3月20日，聯合國政府間氣候變遷專門委員會（IPCC）發布了〈氣候變遷2023：總結報告決策者摘要〉（CLIMATE CHANGE 2023: Synthesis Report Summary for Policymakers），終於完成了為期三年的 AR6 （[Assessment Report: 6th](https://www.youtube.com/watch?v=yzmTNoiOtiY)，第六次評估報告) 報告發布時程。
 
-這份 AR6 完結報告整理了三年發布時程中，由三個工作小組分別發布的三大報告，分別是「氣候科學」（"The Physical Science Basis"）於 2021 年發布、「氣候衝擊、調適與脆弱性」、以及「氣候變遷減緩」，後兩份均於 2022 年發布完成。
+這份 AR6 完結報告整理了這三年發布時程中，由三個工作小組分別發布的三大報告，分別是「氣候科學」（"The Physical Science Basis"）於 2021 年發布、「氣候衝擊、調適與脆弱性」（"Impacts, Adaptation and Vulnerability"）、以及「氣候變遷減緩」（"Mitigation of Climate Change"），後兩份均於 2022 年發布完成。
 
 IPCC AR6 氣候變遷評估報告總結了當前全球科學界對於氣候變遷的最新理解，目的是讓政策制定者獲得充分的資訊，是全球各國制定氣候相關法規的重要依據報告。
 
-AR6 報告並非由 IPCC 自行進行的研究，而是由世界各地數百位科學家自願進行調查、討論與撰寫，並且經過多次檢閱審查與修改，目的在於提供公正可信的科學研究成果總結。這份報告發布在氣候變遷領域是一件重要大事。
+AR6 完結報告並非由 IPCC 自行進行的研究，而是由世界各地數百位科學家自願進行調查、討論與撰寫，並且經過多次檢閱審查與修改，目的在於提供公正可信的科學研究成果總結。這份報告發布在氣候變遷領域是一件重要大事。
 
-AR6 報告內容主要提出兩大訊息：
+AR6 完結報告內容主要提出兩大訊息：
 
-一、全球暖化升溫問題和 AR5 2014 年的觀察結果一致，有非常高可信度證據顯示，人為活動造成大量溫室氣體排放，造成極端氣候事件增加、水資源、漁獲、農產下降、森林消失、海平面上升等問題。
+一、全球暖化升溫問題和十年前 AR5 報告結論一致，有非常高可信度證據顯示，人為活動造成大量溫室氣體排放，造成極端氣候事件增加、水資源、漁獲、農產下降、森林消失、海平面上升等問題。
 
 二、人類社會必須應對氣候危機進行調適與減緩（Adaptation and Mitigation），透過教育民眾氣候危機意識、減少傷亡、加強永續發展概念等。同時先進國家也應該將製造技術和科技轉移至開發程度相對較低的國家，協助共存共榮。
 
@@ -23,7 +23,7 @@ AR6 報告內容主要提出兩大訊息：
 ![](../005-Files/Untitled.png)
 [https://www.freepik.com/free-photo/beautiful-colorful-small-fishes-swimming-tank_14191617.htm#query=coral reef&position=1&from_view=search&track=ais](https://www.freepik.com/free-photo/beautiful-colorful-small-fishes-swimming-tank_14191617.htm#query=coral%20reef&position=1&from_view=search&track=ais)
 
-AR6 報告中提到，氣候變遷會對生態系統和生物多樣性造成衝擊，並且指出脆弱的熱帶珊瑚生態系將是地球上第一個消失的生態系統。
+AR6 完結報告中提到，氣候變遷會對生態系統和生物多樣性造成衝擊，並且指出脆弱的熱帶珊瑚生態系將是地球上第一個消失的生態系統。
 
 如果平均溫度升高超過 2 度， 99％ 以上的全球珊瑚礁均面臨消失風險。如果能在2050年前控制在升溫 1.5 度之內，則有機會保留 10-30％ 的珊瑚礁。
 
@@ -48,9 +48,9 @@ AR6 報告中提到，氣候變遷會對生態系統和生物多樣性造成衝�
 ![](../005-Files/3.png)
 [https://www.freepik.com/free-photo/stubble-burning_921812.htm#query=forest fire&position=38&from_view=search&track=ais](https://www.freepik.com/free-photo/stubble-burning_921812.htm#query=forest%20fire&position=38&from_view=search&track=ais)
 
-AR6 報告總結多項科學證據，從大氣、地層、冰層和生物圈等觀測資料，都顯示全球暖化正在發生中，並且這些結論可信度都非常高。
+AR6 完結報告總結多項科學證據，從大氣、地層、冰層和生物圈等觀測資料，都顯示全球暖化正在發生中，並且這些結論可信度都非常高。
 
-這次 AR6 報告直接針對全球在升溫 1.5、2、3、4 度的各種情境中可能產生的氣候負面影響進行討論，且這些負面影響發生的時間點不是 2100 年，是會大幅提前在 2020~2030 間顯現出來。
+這次 AR6 完結報告直接針對全球在升溫 1.5、2、3、4 度的各種情境中可能產生的氣候負面影響進行討論，且這些負面影響發生的時間點不是 2100 年，是會大幅提前在 2020~2030 間顯現出來。
 
 中央研究院經濟研究所兼任研究員 蕭代基表示，氣候變遷已經是氣候危機。在 2020~2030 這個十年窗口中，全球各國需要加強減量行動，否則若升溫達到不歸點之後，寒帶多年凍土融化，釋放凍土儲存的有機碳，將開啟氣候變遷的正回饋圈，造成不可逆轉的極端氣候危機。
 
@@ -58,7 +58,7 @@ AR6 報告總結多項科學證據，從大氣、地層、冰層和生物圈等�
 
 ## 自然為本的調適方法
 
-IPCC AR6 報告特別肯定，「自然為本的調適方法」如城市綠化、恢復自然地景和生態系統等，能有效降低洪水和高溫風險。從森林經營或防災的角度來看，這是一個非常鼓舞人心的科學訊息。
+IPCC AR6 完結報告特別肯定，「自然為本的調適方法」如城市綠化、恢復自然地景和生態系統等，能有效降低洪水和高溫風險。從森林經營或防災的角度來看，這是一個非常鼓舞人心的科學訊息。
 
 然而，當前世界各國的積極程度仍有所不足，因此未來在相關政策和措施的強度必須進一步提升。
 
@@ -67,7 +67,7 @@ IPCC AR6 報告特別肯定，「自然為本的調適方法」如城市綠化�
 ![](../005-Files/4.png)
 [https://www.freepik.com/free-photo/trucks-highway-mountain-sunset_31177932.htm#query=fleet&position=20&from_view=search&track=sph](https://www.freepik.com/free-photo/trucks-highway-mountain-sunset_31177932.htm#query=fleet&position=20&from_view=search&track=sph)
 
-AR6 報告指出，能源、工業、運輸及建築四大部門為碳排之首，總共佔 2019 年全球 79% 的溫室氣體排放。然而從 IPCC 的路徑模型來看，運輸部門是時程上較晚才能達到淨零排放的部門之一。
+AR6 完結報告指出，能源、工業、運輸及建築四大部門為碳排之首，總共佔 2019 年全球 79% 的溫室氣體排放。然而從 IPCC 的路徑模型來看，運輸部門是時程上較晚才能達到淨零排放的部門之一。
 
 有鑑於此，IPCC AR6 總結報告強調必須從需求面對運輸部門進行減碳，各國政府在致力於運具電動化的同時，亦需要提升大眾運輸與主動運輸（如步行、騎自行車）的使用，從使用者端減少整體電力需求。
 
@@ -80,7 +80,7 @@ AR6 報告指出，能源、工業、運輸及建築四大部門為碳排之首�
 ![](../005-Files/5.png)
 [https://www.freepik.com/free-photo/beautiful-landscape-cityscape-taipei-101-building-architecture-city_6899642.htm#query=taiwan&position=20&from_view=search&track=sph](https://www.freepik.com/free-photo/beautiful-landscape-cityscape-taipei-101-building-architecture-city_6899642.htm#query=taiwan&position=20&from_view=search&track=sph)
 
-AR6 報告呈現的是全球尺度的地球環境，整個第六次評估與海洋相關的報告（也是報告特別強調的主軸），對於台灣是極為重要的一部分。
+AR6 完結報告呈現的是全球尺度的地球環境，整個第六次評估與海洋相關的報告（也是報告特別強調的主軸），對於台灣是極為重要的一部分。
 
 在氣候危機逼近之下，台灣整體社會如何正視即將迎來的衝擊，同時產生要求改變的集體意識，這些才是最需要盡快解決的問題。
 
