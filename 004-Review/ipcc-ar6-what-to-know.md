@@ -1,4 +1,4 @@
-#  # IPCC AR6 完結報告：全球氣候危機將衝擊台灣
+#  # IPCC AR6 完結報告：台灣 99% 珊瑚礁即將消失
 ![](../005-Files/0.jpeg)
 [Climate change widespread, rapid, and intensifying – IPCC — IPCC](https://www.ipcc.ch/2021/08/09/ar6-wg1-20210809-pr/)
 
