@@ -1,9 +1,9 @@
-#  # IPCC AR6 完結報告：台灣 99% 珊瑚礁即將消失
+#  # IPCC AR6 完結報告：99% 珊瑚礁即將消失
 ![](../005-Files/0.jpeg)
 [Climate change widespread, rapid, and intensifying – IPCC — IPCC](https://www.ipcc.ch/2021/08/09/ar6-wg1-20210809-pr/)
 
 
-2023年3月20日，聯合國政府間氣候變遷專門委員會（IPCC）發布了〈氣候變遷2023：總結報告決策者摘要〉（CLIMATE CHANGE 2023: Synthesis Report Summary for Policymakers），終於完成了為期三年的 AR6 （[Assessment Report: 6th](https://www.youtube.com/watch?v=yzmTNoiOtiY)，第六次評估報告) 報告發布時程。
+2023年3月20日，聯合國政府間氣候變遷專門委員會（IPCC）發布了〈氣候變遷2023：總結報告決策者摘要〉（CLIMATE CHANGE 2023: Synthesis Report Summary for Policymakers），終於完成了為期三年的 AR6 （[Sixth Assessment Report](https://www.youtube.com/watch?v=yzmTNoiOtiY)，第六次評估報告) 報告發布時程。
 
 這份 AR6 完結報告整理了這三年發布時程中，由三個工作小組分別發布的三大報告，分別是「氣候科學」（"The Physical Science Basis"）於 2021 年發布、「氣候衝擊、調適與脆弱性」（"Impacts, Adaptation and Vulnerability"）、以及「氣候變遷減緩」（"Mitigation of Climate Change"），後兩份均於 2022 年發布完成。
 
