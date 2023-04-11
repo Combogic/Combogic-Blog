@@ -1,6 +1,6 @@
 # 從賽局理論看全球淨零困境
 
-![](../005-Files/gold-chess-chess-board-game-business-metaphor-leadership-concept.jpeg)
+![](../005-Files/gold-chess-chess-board-game-business-metaphor-leadership-concept.jpeg ** "")
 https://www.freepik.com/free-photo/gold-chess-chess-board-game-business-metaphor-leadership-concept_6170445.htm#query=chess&position=16&from_view=search&track=sph
 
 ## 前言

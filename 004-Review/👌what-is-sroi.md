@@ -4,23 +4,21 @@
 ![](../005-Files/successful-executive-asia-young-businesswoman-smart-casual-wear-drawing-writing-using-pen-with-digital-tablet-computer-thinking-inspiration-search-ideas-working-process-modern-home-office.jpeg)
 https://www.freepik.com/free-photo/successful-executive-asia-young-businesswoman-smart-casual-wear-drawing-writing-using-pen-with-digital-tablet-computer-thinking-inspiration-search-ideas-working-process-modern-home-office_10073930.htm#page=2&query=accounting&position=4&from_view=search&track=sph
 
-ESG 不只是[做環保](https://combogic.com/blog/content_0.html)。
+ESG 不只是[做環保](https://combogic.com/blog/content_0.html)。ESG 全名為 Environment, Society, Governance，兼顧一間公司在環境、社會、治理三個面向中如何做出因應，以及做出如何的貢獻。
 
-ESG 全名為 Environment, Society, Governance，兼顧一間公司的環境、社會、治理三個面向。
+例如，完整揭露碳排放資訊即是企業在環境面向做好風險評估與環境責任的一種方式；又例如，一間企業資助偏鄉國小營養午餐，也可以算是在 S 社會領域做出貢獻。
 
-例如，完整揭露碳排放資訊即是企業在環境面向做好風險評估的一種方式，而一間企業資助偏鄉國小營養午餐，也可以算是在 S 社會領域做出貢獻。
-
-但問題是：這個貢獻，實際上究竟是產生了多少社會價值？我們有可能計算環境、社會等這些無形的價值嗎？
+但問題是：這個貢獻，實際上究竟是產生了多少社會價值？我們有可能計算環境、社會等這些無形的價值嗎？這個問題時常困擾撰寫永續報告書的人員，讓人不知從何下手。
 
 SROI（Social Return Of Interest）社會投報率，就是為了回答這個問題而設計的方法論。
 
 ## 什麼是 SROI ？
 
-ROI 投報率大家應該比較熟悉，就是你投一塊錢進去某個標的，一段時間後會產生多少回報。
+ROI 投報率大家應該比較熟悉：你投一塊錢進去某個投資項目，一段時間後會產生多少回報。
 
-而 SROI 社會投報率，概念也相當類似，即是投一塊錢進去某個社會專案，會產生多少塊錢的社會價值。
+而 SROI 社會投報率也是類似的概念：投一塊錢進去某個社會專案，會產生多少塊錢的社會價值。
 
-SROI 是一種試圖將無形的生物多樣性、文化資產、社會正義…等社會價值進行定價的概念，目的是方便投資人評估一間公司在某個社會價值面向實際做出的貢獻。
+SROI 試圖將無形的生物多樣性、文化資產、社會正義…等社會價值進行定價，方便投資人評估一間公司在某個社會價值面向實際做出的貢獻。
 
 而 SROI 不只可以作為過去事蹟的實質效益評估，也可以作為未來規劃的預測，讓企業在制定社會公益策略時有一個衡量標準。
 
@@ -56,7 +54,9 @@ SROI計算雖然有些複雜，但並不一定需要專家才能執行。有許�
 
 ### 3. 衡量成果價值（Evidencing and Valuing Outcome）
 
-這一個步驟即是計算 SROI 最充滿假設，也因此最需要被透明化如何計算的部分。一片森林值多少錢？一個兒童的笑容值多少錢？這些聽起來像是五月天歌詞的意象，現在要真的動手算出一個數字了。
+這一個步驟即是計算 SROI 最充滿假設，也因此最需要被透明化如何計算的部分。
+
+一片森林值多少錢？一個兒童的笑容值多少錢？這些聽起來像是五月天歌詞的意象，現在要真的動手算出一個數字了。
 
 計算的方法有很多，例如替代物類比法、價值成本法等。上述健康營養午餐案例，可以從「避免了負面」來計算（減少偏鄉兒童因營養不良遠赴大城市就醫成本），也可以從「正面效益」來算（增加兒童運動比賽成績而產生獎金收益）。
 
