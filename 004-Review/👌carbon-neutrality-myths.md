@@ -1,8 +1,8 @@
 
 # 碳中和的七大迷思
 
-![](../005-Files/Pasted%20image%2020230411143001.png)
-https://www.freepik.com/free-photo/landscape-with-windmills_877486.htm#page=4&query=carbon%20neutral&position=19&from_view=search&track=ais
+![氣候危機步步逼近，「碳中和」這個名詞開始受到廣泛關注](../005-Files/Pasted%20image%2020230411143001.webp)
+https://www.freepik.com/free-photo/landscape-with-windmills_877486.htm#page=4&query=carbonneutral&position=19&from_view=search&track=ais
 
 
 隨著氣候變遷對人類社會的危害越來越明顯，氣候危機步步逼近，「碳中和」這個名詞開始受到廣泛關注，成為去年的熱門行銷文案詞彙。有碳中和商品、碳中和巧克力、負碳商品...等。
@@ -13,8 +13,8 @@ https://www.freepik.com/free-photo/landscape-with-windmills_877486.htm#page=4&qu
 
 ## 迷思一：碳中和意味著零排放
 
-![](../005-Files/Pasted%20image%2020230411142944.png)
-https://www.freepik.com/free-photo/sustainable-energy-campaign-tree-light-bulb-media-remix_15604413.htm#page=4&query=carbon%20neutral&position=3&from_view=search&track=ais
+![碳中和並不意味著沒有排放任何溫室氣體，而是指任何排放都將被「補償」](../005-Files/Pasted%20image%2020230411142944.webp)
+https://www.freepik.com/free-photo/sustainable-energy-campaign-tree-light-bulb-media-remix_15604413.htm#page=4&query=carbon neutral&position=3&from_view=search&track=ais
 
 碳中和並不意味著沒有排放任何溫室氣體，而是指任何排放都將被「補償」、「中和」、「抵銷」，不論是通過自然方法如森林或海洋、濕地復育等吸收二氧化碳的自然負碳手段，或通過科技解決方案如碳捕捉技術、碳儲存等方式移除同等量的二氧化碳。
 
@@ -24,7 +24,7 @@ https://www.freepik.com/free-photo/sustainable-energy-campaign-tree-light-bulb-m
 
 ## 迷思二：碳中和太昂貴且不可行
 
-![](../005-Files/截圖%202023-04-06%20下午2.05.16.png)
+![實現2050年淨零排放只需要每年全球GDP的7.5％](../005-Files/截圖%202023-04-06%20下午2.05.16.webp)
 https://www.mckinsey.com/capabilities/sustainability/our-insights/the-net-zero-transition-what-it-would-cost-what-it-could-bring
 
 一個普遍的悲觀想法是認為國家政策若追求碳中和，大量投資於可再生能源、能源效率和低碳技術，這些投資成本將損害經濟。
@@ -42,7 +42,7 @@ https://www.mckinsey.com/capabilities/sustainability/our-insights/the-net-zero-t
 
 ## 迷思三：碳中和就足夠了
 
-![](../005-Files/Pasted%20image%2020230411142832.png)
+![我們很可能已經跨越了氣候危機的「不歸點」](../005-Files/Pasted%20image%2020230411142832.webp)
 https://www.freepik.com/free-photo/landscape-building-ruins-bare-trees-water-cloudy-sky-gloomy-day_27399327.htm#query=disaster&position=3&from_view=search&track=sph
 
 有些人認為，只要做到碳中和就足以阻止氣候危機。然而研究指出，[我們很可能已經跨越了氣候危機的「不歸點」](https://www.commondreams.org/news/2020/11/12/humans-may-have-passed-point-no-return-climate-crisis-says-study-doesnt-mean-all)（Point-of-no-return），而單純藉由碳中穩定溫室氣體濃度，並無助於減緩氣候危機。
@@ -52,7 +52,7 @@ https://www.freepik.com/free-photo/landscape-building-ruins-bare-trees-water-clo
 
 ## 迷思四：不需減少排放，只要購買碳信用進行抵銷就可以碳中和
 
-![](../005-Files/Pasted%20image%2020230411142614.png)
+![企業必須持續尋找各式各樣符合自身特性的減碳工具，提升內部管理流程，其中提升自身的數據治理能力是極為重要的環節](../005-Files/Pasted%20image%2020230411142614.webp)
 https://www.freepik.com/free-vector/data-economy-isometric-composition-with-flowchart-connected-platforms-with-human-characters-computer-folders-blocks-vector-illustration_37916065.htm#query=data&position=0&from_view=search&track=sph
 
 碳抵銷（Carbon Offset）意思是一個企業體或國家可以藉由投資、購買在世界他方的「減碳額度」（Carbon Credit），將自身產生的碳排放，結合在他方別人的減碳成效，互相抵銷，達成排放淨值為零。
@@ -63,7 +63,7 @@ https://www.freepik.com/free-vector/data-economy-isometric-composition-with-flow
 
 ## 迷思五：碳中和是一個遙遠的目標
 
-![](../005-Files/Pasted%20image%2020230411141923.png)
+![氣候變遷的負面影響將會在目前這十年間持續發生](../005-Files/Pasted%20image%2020230411141923.webp)
 https://www.freepik.com/free-photo/overheating-planet-earth-global-warming-campaign-mixed-media_15665716.htm#query=climate&position=5&from_view=search&track=sph
 
 
@@ -77,8 +77,8 @@ https://www.freepik.com/free-photo/overheating-planet-earth-global-warming-campa
 
 ## 迷思六：理解不全，未經驗證自稱碳中和
 
-![](../005-Files/Pasted%20image%2020230406151727.png)
-https://www.isoleader.com.tw/home/iso-coaching-detail/PAS%202060
+![由英國標準協會制定的%20PAS2060:2014](../005-Files/Pasted%20image%2020230406151727.webp)
+https://www.isoleader.com.tw/home/iso-coaching-detail/PAS 2060
 
 有些企業未做足功課，購買到未經過可靠單位驗證的碳信用，藉此抵銷自身碳排放並宣稱達成碳中和，而當碳信用被第三方查驗單位宣告無效時反使商譽受損，被貼上「漂綠」之名。
 
@@ -89,7 +89,7 @@ https://www.isoleader.com.tw/home/iso-coaching-detail/PAS%202060
 
 ## 迷思七：不同碳權概念的混淆
 
-![](../005-Files/Pasted%20image%2020230411141736.png)
+![聯合國清潔發展機制認證頒發的%20CER](../005-Files/Pasted%20image%2020230411141736.webp)
 
 有幾種不同類型的碳信用，如基於項目、基於政策和基於配額的信用。不同類型的信用可能會令人困惑，因此了解它們的細微差別和限制是至關重要的。
 
