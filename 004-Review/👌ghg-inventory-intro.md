@@ -1,6 +1,6 @@
 # 溫室氣體怎麼「盤」？14064、GHG protocol、GWP、GTP 介紹
 
-![](../005-Files/Pasted%20image%2020230503134255.png)
+![溫盤是在「盤」什麼？為什麼要「盤」？](../005-Files/溫盤是在「盤」什麼？為什麼要「盤」？.webp)
 https://www.freepik.com/free-photo/close-up-eye-scanning_12810820.htm#query=eye&position=2&from_view=search&track=robertav1_2_sidr
 
 
@@ -37,7 +37,7 @@ ISO 14064 是由國際標準組織（International Organization for Standardizat
 
 剛開始接觸溫室氣體盤查，可能會遇到[一大堆看不懂的專有名詞](https://combogic.com/blog/content_1.html)。在入門時期就把這些名詞搞懂會對未來的實務操作有所幫助。以下是一些溫室氣體盤查的專有名詞解釋。
 
-![](../005-Files/截圖%202023-05-02%20下午2.09.16（2）.png)
+![溫室氣體盤查的專有名詞解釋](../005-Files/溫室氣體盤查的專有名詞解釋.webp)
 
 ### 直接溫室氣體排放（Direct GHG emission）
 白話文：公司自己所有營業活動所產生的碳排放。
@@ -85,7 +85,7 @@ GWP 是在計算排放量時會使用到的係數，指在某時間長度下，�
 
 GTP 和 GWP 有一樣的目的，皆是要把多個溫室氣體轉換成同樣的度量衡：二氧化碳當量（CO2e）。GTP 目前是為了與 GWP 互相參照而存在，主流計算使用上仍然以 GWP 為主。
 
-![](../005-Files/Pasted%20image%2020230502144839.png)
+![GTP%20與%20GWP%20互相參照](../005-Files/GTP 與 GWP 互相參照.webp)
 https://www.researchgate.net/figure/year-GWP-and-GTP-of-some-GHGs_tbl1_273792148
 
 ## 為何要「盤」？
@@ -108,5 +108,4 @@ https://www.researchgate.net/figure/year-GWP-and-GTP-of-some-GHGs_tbl1_273792148
 
 [ISO 14064, International Standard for GHG Emissions Inventories and Verification](https://www3.epa.gov/ttnchie1/conference/ei16/session13/wintergreen.pdf)
 
-[溫室氣體盤查議定書（GHG Protocol）的發展與應用](https://proj.ftis.org.tw/eta/WebPhotos/2017/088-10-%E6%BA%AB%E5%AE%A4%E6%B0%A3%E9%AB%94%E7%9B%A4%E6%9F%A5%E8%AD%B0%E5%AE%9A%E6%9B%B8(GHG%20Protocol)%E7%9A%84%E7%99%BC%E5%B1%95%E8%88%87%E6%87%89%E7%94%A8.pdf)
-
+[溫室氣體盤查議定書（GHG Protocol）的發展與應用](https://proj.ftis.org.tw/eta/WebPhotos/2017/088-10-%E6%BA%AB%E5%AE%A4%E6%B0%A3%E9%AB%94%E7%9B%A4%E6%9F%A5%E8%AD%B0%E5%AE%9A%E6%9B%B8(GHG Protocol)%E7%9A%84%E7%99%BC%E5%B1%95%E8%88%87%E6%87%89%E7%94%A8.pdf)
