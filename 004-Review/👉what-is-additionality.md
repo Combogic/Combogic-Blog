@@ -1,13 +1,13 @@
 # 到底什麼是「額外性」？決定碳權品質的關鍵
 
-![](../005-Files/Pasted%20image%2020230602191418.png)
+![強制性碳市場的碳權只有受到規範的企業才能進行交易，更大的另一項主流市場則是「自願性碳交易市場」，也就是「碳抵銷」，則有可能成為全球新興的下一塊重要經濟板塊。](../005-Files/Pasted%20image%2020230602191418.png)
 https://www.freepik.com/free-photo/rain-water-green-leaf-macro_5017036.htm#page=2&query=green&position=42&from_view=search&track=sph
 
 國際碳權市場正在蓬勃發展，在今年四月蔡英文總統也宣布台灣將於今年成立「碳權交易所」，並且最快可於年底進行交易。
 
 碳交易的主流目前仍然以由上而下的強制性碳市場中的「碳權」（carbon allowance）所產生的衍生性金融商品為主，主要的交易所都坐落在歐洲，如歐洲能源交易所（EEX）、英國洲際歐洲期貨交易所（ICE  Futures Europe）、荷蘭阿姆斯特丹交易所 （ ICE Endex）等。
 
-然而強制性碳市場的碳權只有受到規範的企業才能進行交易，更大的另一項主流市場則是「自願性碳交易市場」，也就是「碳抵銷」，則有可能成為全球新興的下一塊重要經濟板塊。
+然而強制性碳市場的碳權只有受到規範的企業才能進行交易，更大的另一項主流市場則是「自願性碳交易市場」，也就是「[碳抵銷](https://combogic.com/blog/carbon-credit-life-cycle.html)」，則有可能成為全球新興的下一塊重要經濟板塊。
 
 「碳抵銷」（carbon offset）是透過資金支持其他地方所進行的減碳專案，透過購買「碳信用」（carbon credit）的方式來抵銷掉自身的碳排放。這個「碳信用」在一般口語上也稱之為「碳權」，而台灣環保署所用的詞彙則是「減量額度」。
 
@@ -19,6 +19,9 @@ https://www.freepik.com/free-photo/rain-water-green-leaf-macro_5017036.htm#page=
 
 
 ## 碳權並不是平等的
+
+![碳權定價取決於減碳專案（project）本身如何進行。專案的執行地點、執行成本皆會影響價格。](../005-Files/Pasted%20image%2020230604200859.png)
+https://www.freepik.com/free-vector/flat-design-carbon-neutral-illustration_25863201.htm#query=carbon%20offset&position=2&from_view=search&track=ais
 
 初步接觸碳權市場，你會很訝異一件事情：碳權竟然價格都不一樣，而且有些便宜到見底一兩塊美元，有些貴到要幾十美元才買得到。
 
@@ -34,13 +37,16 @@ https://www.freepik.com/free-photo/rain-water-green-leaf-macro_5017036.htm#page=
 
 更少的木柴，意味著婦女和孩童可以從每天五小時的木柴搜集活動中解放，藉此提升婦女權益與福祉、孩童受教育的機會。
 
-也因此，這項計畫不只是登列在減碳底下，也登列在「教育」、「健康與安全」、「福祉」等ESG細項底下。
+也因此，這項計畫不只是登列在減碳底下，也登列在「教育」、「健康與安全」、「福祉」等 [ESG](https://combogic.com/blog/content_0.html) 細項底下。
 
 專案類型也是決定價格的重要因素之一。通常最昂貴的碳抵銷專案以負碳技術、碳捕捉技術為主，因為執行這一類計畫所費不貲，因此售價就會高上一般碳抵銷的碳權許多。
 
 而便宜的專案類型最常見的是「避免排放」的，例如再生能源的建構計畫，通常就屬於在這一類。然而這一類計畫也是最難以估計其「額外性」的，也因此時常為人詬病是「低品質」的碳權。
 
 ## 什麼是「額外性」？
+
+![「額外性」就是指：有沒有你付這筆錢買碳權，是不是真的有差？](../005-Files/Pasted%20image%2020230604201123.png)
+https://www.freepik.com/free-photo/beautiful-view-wind-turbines-grass-covered-field-captured-holland_8755603.htm#query=wind%20power&position=3&from_view=search&track=ais
 
 在「避免排放」類型的碳抵銷專案中，最關鍵的品質指標就是「額外性」。
 
@@ -56,6 +62,9 @@ https://www.freepik.com/free-photo/rain-water-green-leaf-macro_5017036.htm#page=
 
 ## 購買碳權時應該注意什麼？
 
+![除了確認有知名的第三方單位認證以外，也需要主動提問確保碳權品質是安全的。](../005-Files/Pasted%20image%2020230604201201.png)
+https://www.freepik.com/free-photo/close-up-female-business-owner-hand-hold-tablet-device-checking-inventory-stock-shop-warehouse-distributor-factory-business-ideas-concept_25192324.htm#query=check&position=9&from_view=search&track=sph
+
 就像是一般採購時必須確保商品品質一樣，採購碳權時也務必要確保碳權與減碳專案的品質沒有問題。除了確認有知名的第三方單位認證以外，也需要主動提問確保碳權品質是安全的。
 
 以下是一些採購碳權時可以觀察的要點：
@@ -65,7 +74,7 @@ https://www.freepik.com/free-photo/rain-water-green-leaf-macro_5017036.htm#page=
 3. 如何處理永久性與滲漏（leakage）？永久性是指減碳成效是否永久持續，滲漏是指因為意外使得減少的碳排放又溢出來了。例如造林專案最怕遇到森林大火，一燒下去原本固定下來的二氧化碳又全部跑出來，使得造林的碳權品質並不一定就是最安全的。
 4. 社會和環境影響如何？碳權最好不只是減少二氧化碳，也應該對當地社區或生態系統有積極正面影響，例如改善居民生計、公衛、教育、生物多樣性等。
 
-## 買碳權仍然要減碳，不是唯一方法
+## 企業仍然要減碳，買碳權不是唯一方法
 
 買碳權來抵銷公司自己的碳排放，絕對不是用來避免減碳努力的方法。
 
