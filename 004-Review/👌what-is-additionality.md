@@ -88,8 +88,11 @@ https://www.freepik.com/free-photo/close-up-female-business-owner-hand-hold-tabl
 
 除了隨手關燈，我們可以[做更多](https://combogic.com/)。
 
+## 參考資料
 
-https://www.researchgate.net/publication/257945337_What_Is_Additionality_Part_1_A_long_standing_problem
+[What Is Additionality? Part 1: A long standing problem](https://www.researchgate.net/publication/257945337_What_Is_Additionality_Part_1_A_long_standing_problem)
+
+
 
 
 
