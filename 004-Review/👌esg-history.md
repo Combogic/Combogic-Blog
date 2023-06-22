@@ -1,19 +1,19 @@
 # ESG 究竟哪裡來的？從南非一場社會革命開始
 
-
-![](../005-Files/Pasted%20image%2020230606172218.png)
-（我再找實習生做一張像這樣的圖）
+![爬梳 ESG 的歷史脈絡，好好說一場 ESG 究竟從何而來的故事](../005-Files/esg-history.png)
 
 
 忽然間，所有人都在聊 ESG 。
 
-但這個浪潮似乎來的太快，許多企業對於 ESG、碳管理到底是什麼仍然非常半解一知，能夠說出「環境、社會、治理」就已經不錯了，而能夠說明永續報告書、ISO 14064 等名詞的人，若非特別做了功課，大概就只剩下永續小組那些負責寫報告的人。
+但這個浪潮似乎來的太快，許多企業對於 ESG、碳管理到底是什麼仍然非常半解一知，能夠說出「環境、社會、治理」就已經不錯了，而能夠說明永續報告書、ISO 14064 等名詞的人，若非特別做了功課，大概就只剩下永續小組負責寫報告的。
 
 究竟 ESG 這個概念從哪裡來？又為什麼明明節能減碳、環保救地球等口號已經喊了幾十年， ESG 卻在 2022 年忽然走紅起飛，佔據所有企業經理人的眼光？
 
 這篇文章，就要來爬梳 ESG 的歷史脈絡，好好說一場 ESG 究竟從何而來的故事。
 
 ## 1980s：一場以資本為工具的社會革命
+![社會責任投資（SRI）首次聚焦，也是投資人第一次意識到可以藉由資本「做好事，同時獲益」](../005-Files/Pasted%20image%2020230616132758.png)
+https://zh.wikipedia.org/zh-tw/%E7%BA%B3%E5%B0%94%E9%80%8A%C2%B7%E6%9B%BC%E5%BE%B7%E6%8B%89
 
 ESG 是投資人用以檢視一間公司體質是否強健，是否符合社會責任，且是否能夠在充滿風險與動盪社會中韌性生存的投資指標。
 
@@ -25,7 +25,7 @@ ESG 的前身最早可以朔源到 1980 年代，由一群美國大學生點燃�
 
 ## 1990年：Domini 400 Social Index
 
-1990 年代，社會投資倡議者 Amy Domini 創建了 “Domini 400 Social Index”，優先選擇重視社會與環境責任的公司，而非只是單純考量財務損益。
+1990 年代，社會投資倡議者 Amy Domini 創建了 “Domini 400 Social Index”，優先選擇重視社會與環境責任的公司，而非只是單純考量財務損益，成為世界上第一個不只關注財務損益的指數。
 
 在當時，將社會和環境議題優先順序擺在財務損益之前，是非常冒險的行為。然而隔年，Domini 又創立了 “Domini Social Impact Equity Fund” 來試水溫。
 
@@ -33,7 +33,7 @@ ESG 的前身最早可以朔源到 1980 年代，由一群美國大學生點燃�
 
 
 ## 1992年：聯合國氣候變遷綱要公約（UNFCCC）
-![](../005-Files/Pasted%20image%2020230614202227.png)
+![聯合國氣候變遷綱要公約](../005-Files/Pasted%20image%2020230614202227.png)
 
 身處在永續領域，一定會聽過的名詞：「UNFCCC」，聯合國氣候變遷綱要公約，全球永續進程的主要協調組織。
 
@@ -47,7 +47,7 @@ UNFCCC 同時也是負責執行該公約的聯合國秘書處的名稱，辦公�
 
 ## 1997年：京都議定書
 
-![](../005-Files/Pasted%20image%2020230614201003.png)
+![京都議定書（Kyoto Protocol）是首次全球間針對氣候變遷有了共識](../005-Files/Pasted%20image%2020230614201003.png)
 
 1997 年，第三次聯合國氣候變遷大會（COP3）最重要的成果，就是京都議定書（Kyoto Protocol）了。
 
@@ -57,14 +57,14 @@ UNFCCC 同時也是負責執行該公約的聯合國秘書處的名稱，辦公�
 
 京都議定書在歷史定位上有許多的「首度」，但是在成效方面就沒那麼的漂亮了：中國和美國作為最大的排放國並未參與其中，中國沒有設定具有約束力的目標，而美國則從沒有批准協定。加拿大最初參與，但在 2012 年因為意識到需要支付140億美元的罰款，因此中途退出。
 
-## 1997年：全球報告倡議
+## 1997年：全球報告倡議成立（GRI）
 
 與京都議定書同年，現在最主流的永續報告書框架：「全球報告倡議組織」（GRI）成立。
 
 該組織廣泛涵蓋企業的社會和治理議題，在起先以提供指南的方式存在，並且於 2016 年轉為首套全球永續報告標準框架。
 
-## 2000年：碳披露項目
-![](../005-Files/Pasted%20image%2020230614202720.png)
+## 2000年：碳揭露計畫組織成立（CDP）
+![碳揭露計畫組織](../005-Files/Pasted%20image%2020230614202720.png)
 https://zh.wikipedia.org/zh-tw/%E7%A2%B3%E6%8F%AD%E9%9C%B2%E5%B0%88%E6%A1%88
 
 2000 年，永續領域重要的獨立非營利組織：「碳揭露計畫」（Carbon Disclosure Project，CDP）成立，成為大型投資者要求公司報告其永續表現和如何應對氣候風險的框架。
@@ -78,7 +78,7 @@ https://www.freepik.com/free-vector/environment-social-governance-flat-concept_2
 
 ## 2006年：責任投資原則（Principles for Responsible Investment，PRI）
 
-![](../005-Files/Pasted%20image%2020230614183230.png)
+![責任投資原則](../005-Files/Pasted%20image%2020230614183230.png)
 https://en.wikipedia.org/wiki/Principles_for_Responsible_Investment
 
 2006 年，聯合國籌組 70 位投資與環境專家，共同發表了六項責任投資原則，呼籲機構投資者將 ESG 表現考慮納入其決策中。
@@ -86,17 +86,17 @@ https://en.wikipedia.org/wiki/Principles_for_Responsible_Investment
 這六大原則包含：「決策過程納入 ESG 議題」、「積極推動所投資公司提升 ESG 表現」、「完整透明揭露 ESG 資訊」、「於投資界提倡 ESG 分析框架」、「提高落地責任投資原則的能力」，以及「充分報告相關活動和進展」。
 
 ## 2011年：永續會計標準委員會成立（SASB）
-![](../005-Files/Pasted%20image%2020230614202424.png)
+![永續會計標準委員會](../005-Files/Pasted%20image%2020230614202424.png)
 https://en.wikipedia.org/wiki/Sustainability_Accounting_Standards_Board
 
-SASB 是除了 GRI 以外，目前在台灣第二常見的永續報告書框架。
+SASB 是目前除了 GRI 以外，最常見的永續報告書框架。
 
 創始人 Jean Rogers 為提供不同行業公司有意義的會計標準，真實反映ESG因素對企業利潤的影響，因此在設計框架時特別針對行業別進行適配。
 
 例如，飲料公司需要考慮水資源安全，而再生能源公司則需要考慮生產設備的環境影響等。
 
 ## 2015年：聯合國永續發展目標（SDGs）
-![](../005-Files/Pasted%20image%2020230614202817.png)
+![聯合國永續發展目標](../005-Files/Pasted%20image%2020230614202817.png)
 https://zh.wikipedia.org/zh-tw/%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95%E7%9B%AE%E6%A0%87
 
 
@@ -104,8 +104,18 @@ https://zh.wikipedia.org/zh-tw/%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95%E7%
 
 這些目標涵蓋了貧困、食品安全、健康、平等、水資源、清潔能源、就業、基礎設施、可持續性、氣候、海洋、生態系統、司法和合作等許多議題。
 
-## 2015 年：氣候相關財務揭露（TCFD）
-![](../005-Files/Pasted%20image%2020230614202857.png)
+## 2015 年：《巴黎氣候協定》
+
+2015 年在第 21 次聯合國氣候大會（COP21），全球 195 締約國協議通過《巴黎氣候協定》，接續京都議定書的地位，並且明定需將全球平均氣溫升幅空至於工業革命前水準的 2 度C 內。
+
+巴黎協定相較於京都議定書，具有更明確的目標，並且也規劃了氣候相關投資，將世界各地開發中國家與氣候受災地區均納入協定中。
+
+然而就如同京都議定書，巴黎協定並沒有法律約束力，只能在該框架下依照各成員國意願自主進行，並且每五年檢視一次減排成績。
+
+美國在 2019 年就曾經宣布退出巴黎協定，並且在 2020 年生效。然後在美國政黨輪替後，於 2021 年再次加入巴黎協定。
+
+## 2015 年：氣候相關財務揭露組織成立（TCFD）
+![氣候相關財務揭露組織](../005-Files/Pasted%20image%2020230614202857.png)
 https://zh.wikipedia.org/zh-tw/File:TCFD_wordmark_2022.svg
 
 2015 年，永續報告書框架三巨頭「氣候相關財務揭露」（Taskforce on Climate-related Financial Disclosures，TCFD）也誕生了。 
@@ -116,7 +126,7 @@ TCFD 組織致力於制定氣候變遷風險相關的財務報告標準，幫助
 
 
 ## 2020 年：COVID-19 大流行和氣候災害
-![](../005-Files/Pasted%20image%2020230614202930.png)
+![COVID-19](../005-Files/Pasted%20image%2020230614202930.png)
 https://www.freepik.com/free-photo/asian-female-casual-shirt-wear-facial-mask-virus-protection-new-normal-lifestyle-sit-relax-window-glass-with-reflect-garden-outside-health-ideas-concept_25119030.htm#query=covid&position=4&from_view=search&track=sph
 
 2020 年新冠肺炎疫情迫使數百萬員工在家工作，充分展示了一個看不見的風險可以怎樣在短短數個月內徹底顛覆世界經濟。
@@ -126,7 +136,7 @@ https://www.freepik.com/free-photo/asian-female-casual-shirt-wear-facial-mask-vi
 根據[摩根大通調查](https://www.jpmorgan.com/insights/research/covid-19-esg-investing)，71% 的機構投資者認為疫情與隨之而來的社會動盪，會提高全球企業的風險意識和相對應行動，尤其是與氣候變化和生物多樣性損失有關的風險」。ESG 現在成為火熱潮流，與疫情密不可分。
 
 ## 2022年：特斯拉從 S&P 500 ESG 永續發展指數中被剔除
-![](../005-Files/Pasted%20image%2020230614203140.png)
+![特斯拉從 S&P 500 ESG 永續發展指數中被剔除](../005-Files/Pasted%20image%2020230614203140.png)
 https://www.freepik.com/free-photo/close-up-electric-car-charging_19868505.htm#query=EV&position=28&from_view=search&track=sph
 
 若要說去年在 ESG 界有什麼驚天動地的大新聞，大概就是特斯拉（Tesla）在 Elon Musk 開始談判收購推特短短一個月後，竟被 S&P 500 的永續指數名單中剔除。
@@ -135,8 +145,8 @@ https://www.freepik.com/free-photo/close-up-electric-car-charging_19868505.htm#q
 
 而其他原因也包括工廠中發生種族歧視與惡劣職場環境的醜聞，以及特斯拉對於自動駕駛事故的處理方式不良等。顯現 ESG 評估指標並不只是關於氣候與環境，也在乎多元、包容、公平等普世價值。
 
-## 2023年：ESG投資成為美國的政治議題
-![](../005-Files/Pasted%20image%2020230614203202.png)
+## 2023年：反 ESG 成為美國的政治議題
+![反 ESG 成為美國的政治議題](../005-Files/Pasted%20image%2020230614203202.png)
 https://www.freepik.com/free-photo/us-flag-flying-capitol-building-washington-dc_19782847.htm#query=congress&position=11&from_view=search&track=sph
 
 而在 2023 年，ESG 相關的最新發展，就是美國最新的「反 ESG 」浪潮反撲，讓氣候變遷再次成為美國政治角力戰場。

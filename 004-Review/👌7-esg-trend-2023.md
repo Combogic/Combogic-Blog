@@ -1,5 +1,8 @@
 # 2023 年必須注意的七大 ESG 趨勢
 
+![](../005-Files/Pasted%20image%2020230616152257.png)
+https://www.freepik.com/free-photo/peak-bamboo-lijiang-rural-mist_1174603.htm#query=nature&position=0&from_view=search&track=sph
+
 從會議室到消費者購物車，永續意識已經越來越火熱，不論投資者或者消費者，都漸漸開始會問：你們公司 ESG 表現如何？
 
 ESG 熱潮兵臨城下，不論上市櫃、中小企業皆已不能忽視。
@@ -133,7 +136,7 @@ SSA＆Company 顧問公司數位分析總經理 Vinod Prashad 表示：「企業
 
 界定對的 KPI ，並且架構一套有效的 ESG 數據分析系統，可以有效幫助企業營運體質提升，也與利害關係人溝通順暢，提升企業形象。
 
-## 讓數據成為槓桿施力點
+## 讓數據成為企業決勝關鍵
 ![](../005-Files/Pasted%20image%2020230613184818.png)
 https://www.freepik.com/free-photo/hand-man-playing-chess-business-planning-comparison-metaphor-selective-focus_6170453.htm#query=chess&position=12&from_view=search&track=sph
 
