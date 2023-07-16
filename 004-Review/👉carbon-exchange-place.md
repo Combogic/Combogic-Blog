@@ -1,4 +1,4 @@
-## 碳權交易所完整解析：全新市場機會或者割韭菜派對？
+## 台灣碳權交易所完整解析：全新市場機會？
 
 ![除了種樹以外，濕地土壤復育避免排出更多二氧化碳是常見的碳權來源](../005-Files/Pasted%20image%2020230620195355.png)
 https://www.freepik.com/free-photo/lake-middle-foresty-with-green-leafed-trees-cloudy-sky_8943664.htm#query=wet%20land&position=4&from_view=search&track=ais
@@ -10,7 +10,8 @@ https://www.freepik.com/free-photo/lake-middle-foresty-with-green-leafed-trees-c
 我們先從一個，大家永遠講不清楚的概念開始：「碳權」。
 
 ## 何謂碳權、碳交易？
-![](../005-Files/carbon%20credit.png)
+
+![碳權與碳交易，分有兩種](../005-Files/截圖%202023-06-25%20下午1.06.37.png)
 
 「碳權」（carbon credit）是國際間為了將碳給定價，而產生的新概念，同樣一個英文字 carbon credit ，卻有很多種翻譯：「碳信用」、「碳信用額度」、「碳排許可」、「減量額度」、「碳排額度」...
 
@@ -66,7 +67,9 @@ https://www.freepik.com/free-photo/photo-automobile-production-line-welding-car-
 自願減量制更多細節仍在規劃中，可以參考[環保署溫室氣體減量抵換資訊平台](https://ghgtransaction.epa.gov.tw/Index)
 
 ## 台灣碳權交易所成立意義在哪？
-![成立一個碳權交易所也等同於台灣從此有一個國際碳帳戶，可以成為正式成為國際碳交易市場的一份子。](../005-Files/Pasted%20image%2020230620201848.png)
+
+![成立一個碳權交易所也等同於台灣從此有一個國際碳帳戶，可以成為正式成為國際碳交易市場的一份子。](../005-Files/Pasted%20image%2020230625130304.png)
+https://www.freepik.com/free-photo/photovoltaics-solar-power-station-energy-from-natural_10896368.htm#page=2&query=solar%20panel&position=0&from_view=search&track=ais
 
 台灣成立碳權交易所可以說是在永續進程上的一大步。成立碳權交易所的好處主要有幾點
 
@@ -104,8 +107,6 @@ https://www.freepik.com/free-photo/global-environmental-sustainability-backgroun
 櫛構科技以十年以上資料科學團隊經驗，運用 AI 與大數據分析，能針對企業的碳排放數據進行數據洞察，抓出糾結點，提供數據驅動的減碳策略。
 
 除了隨手關燈，我們可以[做更多](https://combogic.com/)。
-
-
 
 
 ## 參考資料
