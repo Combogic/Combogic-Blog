@@ -1,10 +1,10 @@
-# 「黃碳」哪裡黃？「種碳」怎麼種？你有所不知的土壤碳匯
+# 「黃碳」哪裡黃？「種碳」怎麼種？你有所不知的土壤碳匯（2）
 
-![](../005-Files/Pasted%20image%2020230808195317.png)
+![「種碳」這件事非常複雜](../005-Files/Pasted%20image%2020230808195317.png)
+https://www.freepik.com/free-photo/women-farmers-are-researching-soil_4284054.htm#query=soil%20carbon&position=28&from_view=search&track=ais
 
-近年蔡英文總統宣布成立[碳權交易所](https://combogic.com/blog/carbon-exchange-place.html)，台灣國內碳權市場與自願減量額度等遊戲規則也逐漸明朗，除了眾多股民開始尋找「碳權概念股」以外，許多企業也開始思考「生產碳權來賺錢」的可能性。
 
-上一篇文章，我們討論了「什麼是黃碳？」、「常見黃碳農法」、「歐洲對土壤碳匯的立場」等。
+上一篇文章，我們討論了「什麼是黃碳？」、「常見土壤碳匯農法」、「歐洲對土壤碳匯的立場」等。
 
 但是「種碳」這件事非常複雜，不是單純把植物埋一埋就好了而已。要運用碳市場機制來推動永續農業轉型，其中仍然有非常多的關卡尚未克服。
 
@@ -23,6 +23,8 @@
 另外，測量土壤中碳封存效果還需要長期觀察監測。從計畫開始到實際上測量得到土壤中碳封存含量增加，可能就需要[三到五年](https://soilhealthinstitute.org/news-events/managing-for-soil-organic-carbon-is-fundamental-to-regenerative-agriculture/)。而後續的實際追蹤，十年以上跑不掉。
 
 可以看出來，土壤的碳含量計算涉及分析化學領域，對於一般 CSR 小組、永續從業人員、農民都是陌生的，如何推動並確定精準的方法論，並且向大眾溝通，在實務上是一個非常具有挑戰性的任務。
+
+延伸閱讀：[台灣首間「碳權」交易所完整解析：全新市場機會？](https://combogic.com/blog/carbon-exchange-place.html)
 
 ## 問題二：「黃碳」需要人工維持
 

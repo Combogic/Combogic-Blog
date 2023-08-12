@@ -1,8 +1,10 @@
-# 「黃碳」哪裡黃？「種碳」怎麼種？你有所不知的土壤碳匯
+# 「黃碳」哪裡黃？「種碳」怎麼種？你有所不知的土壤碳匯（1）
 
 ![土壤碳匯可以幫助減緩氣候變遷](../005-Files/Pasted%20image%2020230808194344.png)
+https://www.freepik.com/free-photo/flat-lay-hands-holding-soil_4969590.htm#query=soil&position=13&from_view=search&track=sph
 
-近年蔡英文總統宣布成立[碳權交易所](https://combogic.com/blog/carbon-exchange-place.html)，台灣國內碳權市場與自願減量額度等遊戲規則也逐漸明朗，除了眾多股民開始尋找「碳權概念股」以外，許多企業也開始思考「生產碳權來賺錢」的可能性。
+
+[碳權交易所](https://combogic.com/blog/carbon-exchange-place.html)宣佈成立，台灣國內碳權市場與自願減量額度等遊戲規則也即將制定，除了眾多股民開始尋找「碳權概念股」以外，許多企業也開始思考「生產碳權來賺錢」的可能性。
 
 其中一項熱門話題，就是「種碳」：將大氣中的二氧化碳吸收，並且儲存於土壤[碳匯（carbon sink）](https://combogic.com/blog/content_1.html)中。這種儲存大氣二氧化碳的手法，又稱為「黃碳」。
 
