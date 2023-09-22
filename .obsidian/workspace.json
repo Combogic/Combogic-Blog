@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "4eecf30fa36db2cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc4083359f5ceb37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a6d9e535457ea4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003 Writing/👉cybersecurity-esg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5f52e125e3932a8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8401cdd2670fe930",
+    "type": "split",
+    "children": [
+      {
+        "id": "e347622e41b45f12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6791ab4698d65b38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "caa8a4d9333cb585",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "課綱",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81ab373470a45191",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0ab6dc12728bcb6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "18d2cdef637ac9ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "4edba15531af3c33",
+    "type": "split",
+    "children": [
+      {
+        "id": "a947681e1a31168c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "940d8ad3ddcb0952",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "003 Writing/👉cybersecurity-esg.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39f096c0ec29845f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "003 Writing/👉cybersecurity-esg.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5b9110599db6b110",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9309c1f71915c759",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "003 Writing/👉cybersecurity-esg.md"
+              }
+            }
+          },
+          {
+            "id": "ceeb6ceccd052439",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a5f52e125e3932a8",
+  "lastOpenFiles": [
+    "cyber-security-dont-report-esg.pdf",
+    "003 Writing/👉cybersecurity-esg.md",
+    "Pasted image 20230912162839.png",
+    "002 Literature Note/永續報告書.md",
+    "Template/Writing.md",
+    "Template",
+    "001 Fleeting Note/👉combogic-news-0820.md",
+    "004-Review/👌green-washing.md",
+    "005-Files/截圖 2023-08-30 下午5.52.04.png",
+    "004-Review/👉carbon-neutral.md",
+    "003 Writing/👉green-washing-prevent.md",
+    "004-Review/👌ipcc-ar6-what-to-know.md",
+    "004-Review/👌ntu-garage-yes.md",
+    "003 Writing/淨零企業困境.md",
+    "007-CLASS/✏️6-2829 溫室氣體盤查：大詳解.md",
+    "002 Literature Note/碳權黑粉網站.md",
+    "002 Literature Note/經濟部 2023 企業淨零行動手冊.md",
+    "002 Literature Note/👉 green-washing （back-up ）.md",
+    "007-CLASS/✏️6-27 何謂「碳管理」？究竟要管理什麼？.md",
+    "007-CLASS/✏️6-27 面對氣候變遷之下的國際趨勢.md",
+    "007-CLASS/✏️6-27 碳足跡.md",
+    "007-CLASS/✏️6-27 碳金融：碳定價與碳交易.md",
+    "007-CLASS/✏️6-28 企業淨零排放.md",
+    "007-CLASS/✏️6-28 金融業淨零標準.md",
+    "007-CLASS/✏️ 7-19 再生能源發電業者.md",
+    "007-CLASS/✏️6-27 全球暖化究竟會帶來哪些氣候災害？.md",
+    "007-CLASS/✏️6-27 永續管理必須知道的 ISO 們.md",
+    "007-CLASS/✏️6-28 SBTi.md",
+    "007-CLASS/✏️7-2 京都市場與非京都市場.md",
+    "005-Files/Noname5.jpeg",
+    "005-Files/截圖 2023-08-31 下午4.47.55.png",
+    "005-Files/截圖 2023-08-31 下午4.46.39.png",
+    "005-Files/截圖 2023-08-31 下午4.44.45.png",
+    "005-Files/截圖 2023-08-31 下午3.05.00.png",
+    "005-Files/截圖 2023-08-31 下午3.03.38.png",
+    "005-Files/截圖 2023-08-31 下午3.00.59.png",
+    "005-Files/截圖 2023-08-31 下午2.48.33.png",
+    "005-Files/推動我國接軌IFRS永續揭露準則藍圖_20230817.pdf",
+    "005-Files/再生能源憑證使用與宣告指引.pdf",
+    "005-Files/經濟部〈2023企業淨零行動手冊〉_0626F.pdf",
+    "溫室氣體排放係數管理表6.0.4版.ods",
+    "005-Files/sustainability-13-08952-v3.pdf",
+    "007-CLASS",
+    "005-Files/2上市櫃公司確信機構管理要點及問答集.pdf",
+    "005-Files/溫室氣體盤查說明.pdf"
+  ]
+}

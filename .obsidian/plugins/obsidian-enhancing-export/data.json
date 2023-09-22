@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "name": "Markdown"
+    },
+    {
+      "name": "Markdown (Hugo)"
+    },
+    {
+      "name": "Html"
+    },
+    {
+      "name": "TextBundle"
+    },
+    {
+      "name": "PDF"
+    },
+    {
+      "name": "Word (.docx)"
+    },
+    {
+      "name": "OpenOffice"
+    },
+    {
+      "name": "RTF"
+    },
+    {
+      "name": "Epub"
+    },
+    {
+      "name": "Latex"
+    },
+    {
+      "name": "Media Wiki"
+    },
+    {
+      "name": "reStructuredText"
+    },
+    {
+      "name": "Textile"
+    },
+    {
+      "name": "OPML"
+    },
+    {
+      "name": "html-w/-images",
+      "type": "custom",
+      "command": "your command",
+      "targetFileExtensions": ".ext"
+    }
+  ],
+  "defaultExportDirectoryMode": "Auto",
+  "version": "1.1.7",
+  "lastExportDirectory": {
+    "darwin": "/Users/chiukaun/Desktop"
+  },
+  "lastExportType": "Html",
+  "openExportedFileLocation": true,
+  "lastEditName": "html-w/-images"
+}
